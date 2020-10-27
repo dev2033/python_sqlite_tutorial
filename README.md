@@ -7,4 +7,4 @@
     `sudo apt install sqlite3 -y`
 
 
-<p>Для просмотра таблиц рекомендую программу - DB Browser from SQLite (Ubuntu)</p>
+<p>Для просмотра таблиц рекомендую программу - 'DB Browser from SQLite' (Ubuntu)</p>
