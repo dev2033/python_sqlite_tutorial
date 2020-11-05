@@ -1,3 +1,6 @@
+"""
+Вывод данных из БД
+"""
 import sqlite3 as lite
 import sys
 
