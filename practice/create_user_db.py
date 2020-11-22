@@ -1,6 +1,6 @@
 import sqlite3
 
-from my_logging import logger
+from my_logger import logger
 
 
 conn = sqlite3.connect("db_dir/users.db")
